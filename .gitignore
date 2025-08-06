@@ -25,3 +25,37 @@ Thumbs.db
 data/
 obsidian/
 *.exe
+
+# Application files
+*.exe
+*.msi
+*.dmg
+*.app
+*.deb
+*.rpm
+
+# Large archives
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.iso
+
+# IDE and app folders
+Obsidian/
+.obsidian/
+node_modules/
+venv/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+
+# Large data files (>50MB)
+*.model
+*.pkl
+*.h5
+*.weights
