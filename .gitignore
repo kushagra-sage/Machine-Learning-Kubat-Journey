@@ -8,12 +8,8 @@ env/
 venv/
 .venv/
 
-# Jupyter Notebooks
-.ipynb_checkpoints/
 
-# IDEs
-.vscode/
-.idea/
+
 
 # OS
 .DS_Store
@@ -21,7 +17,6 @@ Thumbs.db
 
 # Data files (if large)
 *.xlsx
-data/
 obsidian/
 *.exe
 
