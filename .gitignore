@@ -20,7 +20,6 @@ venv/
 Thumbs.db
 
 # Data files (if large)
-*.csv
 *.xlsx
 data/
 obsidian/
